@@ -3,8 +3,6 @@ package jplumberfinal;
 public class Sorgente extends Tube {
 
     public Sorgente(int indexI, int indexJ){
-        this.indexI = indexI;
-        this.indexJ = indexJ;
         this.tubeName = "Sorgente";
         this.state = 0;
         for (int i = 0; i < 3; i++) {
