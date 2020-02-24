@@ -20,15 +20,21 @@ public class Grid {
         /*
         popolo la griglia con i tubi
          */
-        if (this.level == 1)
+        if (this.level == 1){
+            this.grid[0][0] = new Sorgente();
+        }
             /*
             to do
              */
-         else if (this.level == 2)
+         else if (this.level == 2){
+             this.grid[1][1] = new Sorgente();
+        }
              /*
              to do
               */
-          else if (this.level == 3)
+          else if (this.level == 3){
+              this.grid[3][1] = new Sorgente();
+        }
               /*
               to do
                */
