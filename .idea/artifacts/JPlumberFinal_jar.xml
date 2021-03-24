@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JPlumberFinal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JPlumberFinal_jar</output-path>
+    <root id="archive" name="JPlumberFinal.jar">
+      <element id="module-output" name="JPlumberFinal" />
+    </root>
+  </artifact>
+</component>
